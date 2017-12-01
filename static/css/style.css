@@ -1,0 +1,23 @@
+
+html, body, #map-canvas {
+  height: 90%;
+  width: 90%;
+  margin: 20px auto auto auto;
+}
+
+html, body {
+	background-color: #7d92b2;
+}
+
+.form-control {
+	width: 33%;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+h2, a {
+	color: white;
+}
+.btn-primary {
+	margin-bottom: 2px;
+}
